@@ -11,7 +11,7 @@ body{
     
 }
 
-.header{
+header{
     background-color: #1F2937;
     padding: 8px 300px;
     display: flex;
@@ -197,7 +197,8 @@ h2{
     align-items: center;
     justify-content: center;
 }
-.footer{
+
+footer{
     color: #F9FAF8;
     background-color: #1F2937;
     height: 100px;
